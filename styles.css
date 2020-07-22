@@ -1,11 +1,12 @@
+body {
+  background-color: powderblue;
+}
 h1{
 	color: red;
 	text-align: center;
 
 }
-body {
-  background-color: powderblue;
-}
+
 h3{
 	color: green;
 	text-align: center;
